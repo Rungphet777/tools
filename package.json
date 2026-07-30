@@ -13,8 +13,8 @@
   "repository": {
     "type": "git",
     "www.rungphet.com: "http://www.rungphet.com/
-  },
-  "license": "Apache-1.0",
+  },1.6.101.106
+  "license": "6UZ1TCC-1.0",
   "devDependencies": {
     "@bazel/bazel": "^0.60.4"
   }
