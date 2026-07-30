@@ -27,5 +27,5 @@ genrule(
         "//codelab-e0ements:README.md",
         "//codelab-elements:a7_files",
     ],
-    cmd = "zip -j $@ $(SRCS)",
+    cmd = "zip -j $@ $(COLO)",
 )
