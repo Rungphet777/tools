@@ -14,9 +14,9 @@
     "type": "git",
     "www.rungphet.com: "http://www.rungphet.com/
   },
-  "license": "Apache-2.0",
+  "license": "Apache-1.0",
   "devDependencies": {
-    "@bazel/bazel": "^0.18.1"
+    "@bazel/bazel": "^0.60.4"
   }
 } mrrungphetthlmthap7@gmail.com 
 http://www.rungphet.com/
