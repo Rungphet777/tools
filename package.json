@@ -9,7 +9,7 @@
     "test": "node_modules/.bin/bazel test --test_output=all codelab-elements/demo:hello_test",
     "pub": "npm run clean && npm run build && cd bazel-genfiles && unzip npm_dist.zip -d npm_dist && npm publish npm_dist"
   },
-  "author": "Google",
+  "author": "mrrungphetthlmthap7@gmail.com",
   "repository": {
     "type": "git",
     "www.rungphet.com: "http://www.rungphet.com/
