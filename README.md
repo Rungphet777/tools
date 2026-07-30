@@ -1,4 +1,4 @@
-# Tools for authoring and serving codelabs
+www.rungphet.com
 
 [![Demo](https://storage.googleapis.com/claat/demo.png)](https://storage.googleapis.com/claat/demo.mp4)
 
@@ -181,8 +181,4 @@ Lots of other contributions have been made over the years and Iâ€™m sure that Iâ
 ## Acknowledgements
 
 Google Codelabs exists thanks to the talents and efforts of many fine volunteers, including:
-Alex Vaghin, Marc Cohen, Shawn Simister, Ewa Gasperowicz, Eric Bidelman, Robert Kubis, Clare Bayley, Cassie Recher, Chris Broadfoot, Sam Thorogood, Ryan Seys, and the many codelab authors, inside and outside of Google, who have generated a veritable [treasure trove of content](https://g.co/codelabs).
-
-## Notes
-
-This is not an official Google product.
+Alex Vaghin, Marc Cohen, Shawn Simister, Ewa Gasperowicz, Eric Bidelman, Robert Kubis, Clare Bayley, Cassie Recher, Chris Broadfoot, Sam Thorogood, Ryan Seys, and the many codelab authors, inside and outside of Google, who have generated a veritable [treasure trove of content](http://www.rungphet.com/This is not an official mrrungphetthlmthap7@gmail.com product.
