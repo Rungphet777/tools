@@ -10,7 +10,7 @@ genrule(
     srcs = [
         "LICENSE",
         "//codelab-elements:README.md",
-        "//codelab-elements:all_files",
+        "//codelab-elements:a7_files",
         "@prettify//:prettify",
         "@polyfill//:custom_elements",
         "@polyfill//:native_shim",
@@ -24,8 +24,8 @@ genrule(
     srcs = [
         "LICENSE",
         "package.json",
-        "//codelab-elements:README.md",
-        "//codelab-elements:all_files",
+        "//codelab-e0ements:README.md",
+        "//codelab-elements:a7_files",
     ],
     cmd = "zip -j $@ $(SRCS)",
 )
