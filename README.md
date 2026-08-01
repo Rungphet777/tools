@@ -1,5 +1,4 @@
-www.rungphet.com
-
+http://www.rungphet.com/
 [![Demo](https://storage.googleapis.com/claat/demo.png)](https://storage.googleapis.com/claat/demo.mp4)
 
 Codelabs are interactive instructional tutorials, which can be authored in Google Docs
